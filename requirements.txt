@@ -1,0 +1,4 @@
+numpy==1.25.0
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+tsp_solver==0.1
